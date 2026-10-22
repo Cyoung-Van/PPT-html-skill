@@ -1,0 +1,92 @@
+{
+  "title": "装饰艺术 · 字体与版式",
+  "style": "art-deco",
+  "lang": "zh-CN",
+  "output_filename": "index.html",
+  "fonts": [
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 400,
+      "subset": true
+    },
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 700,
+      "subset": true
+    },
+    {
+      "family": "DeckDeco",
+      "path": "assets/fonts/PoiretOne-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "subset": true
+    },
+    {
+      "family": "DeckDecoCN",
+      "path": "assets/fonts/ZCOOLQingKeHuangYou-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "subset": true
+    }
+  ],
+  "watermark": {
+    "enabled": false
+  },
+  "slides": [
+    {
+      "id": "opening",
+      "title": "夜幕之上",
+      "layout": "deco-cover",
+      "kind": "cover",
+      "eyebrow": "ART DECO / A CEREMONIAL STUDY",
+      "subtitle": "虚构精品空间 · 视觉概念示例",
+      "body_html": "<div class=\"deco-fan reveal\"><svg viewBox=\"0 0 800 300\" aria-hidden=\"true\"><path d=\"M400 290L764.4 243.1\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L747.7 197.7\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L720.4 155.0\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L683.4 116.4\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L637.8 83.2\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L585.0 56.2\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L526.5 36.3\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L464.2 24.1\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L400.0 20.0\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L335.8 24.1\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L273.5 36.3\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L215.0 56.2\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L162.2 83.2\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L116.6 116.4\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L79.6 155.0\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L52.3 197.7\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M400 290L35.6 243.1\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M120 288V240H185V190H250V140H315V90H485V140H550V190H615V240H680V288\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"/></svg></div><div class=\"deco-date reveal\"><span>EST. 1925</span><b>秩序 / 典雅 / 仪式</b><span>DESIGN STUDY</span></div>",
+      "takeaway": "对称建立秩序，细节构成仪式。",
+      "chapter": "开场",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "title_html": "<span class=\"latin\">AUREA</span><span class=\"cn\">夜幕之上</span>",
+      "label": "01"
+    },
+    {
+      "id": "story",
+      "title": "一场有秩序\n的揭幕",
+      "layout": "deco-process",
+      "kind": "content",
+      "eyebrow": "I / THE GRAND REVEAL",
+      "subtitle": "",
+      "body_html": "<div class=\"deco-steps\"><article data-step=\"1\"><b class=\"step-no\">01</b><h2>序幕</h2><p>中轴先出现，建立视觉重心。</p></article><article data-step=\"2\"><b class=\"step-no\">02</b><h2>登场</h2><p>左右成对的信息依次展开。</p></article><article data-step=\"3\"><b class=\"step-no\">03</b><h2>定格</h2><p>主张落在中央，细节停止闪动。</p></article></div>",
+      "takeaway": "让每一层信息拥有自己的出场顺序。",
+      "chapter": "过程",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "02"
+    },
+    {
+      "id": "evidence",
+      "title": "精确的比例，\n克制的光泽",
+      "layout": "deco-data",
+      "kind": "content",
+      "eyebrow": "II / PROPORTION & BALANCE",
+      "subtitle": "",
+      "body_html": "<div class=\"deco-metrics\"><article class=\"reveal\"><span class=\"measure-label\">阶段一</span><div class=\"measure\"><b data-count=\"35\">35</b><small>%</small></div><p>界定观察对象</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段二</span><div class=\"measure\"><b data-count=\"65\">65</b><small>%</small></div><p>建立比较口径</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段三</span><div class=\"measure\"><b data-count=\"90\">90</b><small>%</small></div><p>确认剩余条件</p></article></div><p class=\"data-source\">示例进度 · 所有数字仅用于风格展示</p>",
+      "takeaway": "金色用于强调，清晰用于阅读。",
+      "chapter": "证据",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "03"
+    },
+    {
+      "id": "delivery",
+      "title": "为重要之事，\n留一座舞台",
+      "layout": "deco-close",
+      "kind": "chapter",
+      "eyebrow": "III / THE FINAL FRAME",
+      "subtitle": "",
+      "body_html": "<div class=\"deco-seal reveal\"><span>FIN</span><p>THE ART OF ARRIVAL</p></div>",
+      "takeaway": "仪式感来自构图，不来自持续的闪烁。",
+      "chapter": "收束",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "04"
+    }
+  ]
+}

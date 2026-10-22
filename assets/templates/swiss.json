@@ -1,0 +1,91 @@
+{
+  "title": "瑞士风格 · 字体与版式",
+  "style": "swiss",
+  "lang": "zh-CN",
+  "output_filename": "index.html",
+  "fonts": [
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 400,
+      "subset": true
+    },
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 700,
+      "subset": true
+    },
+    {
+      "family": "DeckInter",
+      "path": "assets/fonts/Inter-var.ttf",
+      "weight": 400,
+      "style": "normal",
+      "subset": true
+    },
+    {
+      "family": "DeckInter",
+      "path": "assets/fonts/Inter-var.ttf",
+      "weight": 700,
+      "style": "normal",
+      "subset": true
+    }
+  ],
+  "watermark": {
+    "enabled": false
+  },
+  "slides": [
+    {
+      "id": "opening",
+      "title": "让信息\n保持清晰",
+      "layout": "swiss-cover",
+      "kind": "cover",
+      "eyebrow": "SWISS / INTERNATIONAL TYPOGRAPHIC STYLE",
+      "subtitle": "秩序 · 对比 · 精确",
+      "body_html": "<div class=\"folio reveal\">01<span>INFORMATION<br>DESIGN</span></div><div class=\"swiss-cover-note reveal\"><b>形式服从内容。</b><p>用明确的网格、字级与留白，建立可追随的阅读顺序。</p></div>",
+      "takeaway": "一种强调清晰与证据的表达方式。",
+      "chapter": "开场",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "01"
+    },
+    {
+      "id": "story",
+      "title": "结构，先于装饰",
+      "layout": "swiss-process",
+      "kind": "content",
+      "eyebrow": "01 / NARRATIVE ORDER",
+      "subtitle": "按 → 依次展开三层信息。",
+      "body_html": "<div class=\"swiss-steps\"><article data-step=\"1\"><b class=\"step-no\">01</b><h2>主张</h2><p>把最重要的一句话放在视觉起点。</p></article><article data-step=\"2\"><b class=\"step-no\">02</b><h2>证据</h2><p>用对齐的文字与图形解释关系。</p></article><article data-step=\"3\"><b class=\"step-no\">03</b><h2>结论</h2><p>按阅读顺序留下一条清晰判断。</p></article></div>",
+      "takeaway": "一致的网格让差异更容易被看见。",
+      "chapter": "过程",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "02"
+    },
+    {
+      "id": "evidence",
+      "title": "让数字站在\n同一条基线上",
+      "layout": "swiss-data",
+      "kind": "content",
+      "eyebrow": "02 / COMPARISON",
+      "subtitle": "",
+      "body_html": "<div class=\"swiss-metrics\"><article class=\"reveal\"><span class=\"measure-label\">阶段一</span><div class=\"measure\"><b data-count=\"35\">35</b><small>%</small></div><p>界定观察对象</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段二</span><div class=\"measure\"><b data-count=\"65\">65</b><small>%</small></div><p>建立比较口径</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段三</span><div class=\"measure\"><b data-count=\"90\">90</b><small>%</small></div><p>确认剩余条件</p></article></div><p class=\"data-source\">示例进度 · 数值仅用于排版与动画展示</p>",
+      "takeaway": "先统一单位与口径，再比较高低。",
+      "chapter": "证据",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "03"
+    },
+    {
+      "id": "delivery",
+      "title": "少一点噪声。\n多一点信息。",
+      "layout": "swiss-close",
+      "kind": "chapter",
+      "eyebrow": "03 / TAKEAWAY",
+      "subtitle": "",
+      "body_html": "<div class=\"swiss-end reveal\"><span>END</span><p>从问题出发，以证据收束。</p></div>",
+      "takeaway": "清晰的结构可以留下，动画会适时停止。",
+      "chapter": "收束",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "04"
+    }
+  ]
+}

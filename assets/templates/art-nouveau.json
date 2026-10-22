@@ -1,0 +1,92 @@
+{
+  "title": "新艺术 · 字体与版式",
+  "style": "art-nouveau",
+  "lang": "zh-CN",
+  "output_filename": "index.html",
+  "fonts": [
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 400,
+      "subset": true
+    },
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 700,
+      "subset": true
+    },
+    {
+      "family": "DeckNouveau",
+      "path": "assets/fonts/LXGWNeoZhiSong.ttf",
+      "weight": 400,
+      "style": "normal",
+      "subset": true
+    },
+    {
+      "family": "DeckRomantic",
+      "path": "assets/fonts/CormorantGaramond-Italic[wght].ttf",
+      "weight": 500,
+      "style": "italic",
+      "subset": true
+    }
+  ],
+  "watermark": {
+    "enabled": false
+  },
+  "slides": [
+    {
+      "id": "opening",
+      "title": "潮汐花园",
+      "layout": "nouveau-cover",
+      "kind": "cover",
+      "eyebrow": "ART NOUVEAU / 植物与潮汐",
+      "subtitle": "让线条像植物一样生长，让文字拥有呼吸。",
+      "body_html": "<div class=\"specimen reveal\"><svg viewBox=\"0 0 620 650\" class=\"botanical\" aria-hidden=\"true\"><ellipse cx=\"310\" cy=\"324\" rx=\"235\" ry=\"300\" fill=\"#e1dfbc\"/><path d=\"M306 617C185 492 430 374 297 235S331 108 331 64M301 545C430 445 435 346 505 272M284 446C168 393 165 304 111 231M296 361C375 289 392 219 432 168\" fill=\"none\" stroke=\"#345f4e\" stroke-width=\"4\" data-draw/><g fill=\"#7f9866\" stroke=\"#345f4e\" stroke-width=\"2\"><path d=\"M284 446C120 433 84 359 111 300C167 314 229 366 284 446Z\"/><path d=\"M302 545C421 548 512 468 481 400C413 430 348 477 302 545Z\"/><path d=\"M297 235C175 237 150 158 189 113C235 145 270 184 297 235Z\"/><path d=\"M432 168C471 88 531 81 554 110C523 153 480 173 432 168Z\"/></g><g fill=\"#d4ac7a\" stroke=\"#9a724c\" stroke-width=\"2\"><path d=\"M111 231C51 212 49 166 79 151C102 170 114 193 111 231Z\"/><path d=\"M111 231C121 165 157 139 184 159C179 196 150 222 111 231Z\"/><path d=\"M331 64C278 26 249 71 271 100C302 102 322 88 331 64Z\"/><path d=\"M331 64C375 15 414 56 397 91C368 99 345 85 331 64Z\"/><path d=\"M505 272C465 219 492 177 525 185C540 217 525 253 505 272Z\"/><path d=\"M505 272C562 218 603 243 594 279C567 297 532 289 505 272Z\"/></g><path d=\"M86 580Q190 550 310 578T550 576M82 599Q220 565 351 598T556 592\" fill=\"none\" stroke=\"#9b985f\" stroke-width=\"2\"/></svg><span>FIG. 01 · BOTANICAL STUDY</span></div>",
+      "takeaway": "一场关于自然、气味与文字的虚构沙龙。",
+      "chapter": "开场",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "title_html": "<em class=\"latin\">Tidal Garden</em><span class=\"cn\">潮汐花园</span>",
+      "label": "01"
+    },
+    {
+      "id": "story",
+      "title": "沿着曲线，\n读一段故事",
+      "layout": "nouveau-process",
+      "kind": "content",
+      "eyebrow": "I / A LIVING NARRATIVE",
+      "subtitle": "文学沙龙流程示例。",
+      "body_html": "<div class=\"garden-route\"><svg viewBox=\"0 0 620 650\" class=\"botanical\" aria-hidden=\"true\"><ellipse cx=\"310\" cy=\"324\" rx=\"235\" ry=\"300\" fill=\"#e1dfbc\"/><path d=\"M306 617C185 492 430 374 297 235S331 108 331 64M301 545C430 445 435 346 505 272M284 446C168 393 165 304 111 231M296 361C375 289 392 219 432 168\" fill=\"none\" stroke=\"#345f4e\" stroke-width=\"4\" data-draw/><g fill=\"#7f9866\" stroke=\"#345f4e\" stroke-width=\"2\"><path d=\"M284 446C120 433 84 359 111 300C167 314 229 366 284 446Z\"/><path d=\"M302 545C421 548 512 468 481 400C413 430 348 477 302 545Z\"/><path d=\"M297 235C175 237 150 158 189 113C235 145 270 184 297 235Z\"/><path d=\"M432 168C471 88 531 81 554 110C523 153 480 173 432 168Z\"/></g><g fill=\"#d4ac7a\" stroke=\"#9a724c\" stroke-width=\"2\"><path d=\"M111 231C51 212 49 166 79 151C102 170 114 193 111 231Z\"/><path d=\"M111 231C121 165 157 139 184 159C179 196 150 222 111 231Z\"/><path d=\"M331 64C278 26 249 71 271 100C302 102 322 88 331 64Z\"/><path d=\"M331 64C375 15 414 56 397 91C368 99 345 85 331 64Z\"/><path d=\"M505 272C465 219 492 177 525 185C540 217 525 253 505 272Z\"/><path d=\"M505 272C562 218 603 243 594 279C567 297 532 289 505 272Z\"/></g><path d=\"M86 580Q190 550 310 578T550 576M82 599Q220 565 351 598T556 592\" fill=\"none\" stroke=\"#9b985f\" stroke-width=\"2\"/></svg></div><div class=\"garden-steps\"><article data-step=\"1\"><b class=\"step-no\">01</b><h2>初见</h2><p>从一束枝叶、一段文字开始。</p></article><article data-step=\"2\"><b class=\"step-no\">02</b><h2>停留</h2><p>沿着主曲线，交换各自的观察。</p></article><article data-step=\"3\"><b class=\"step-no\">03</b><h2>回响</h2><p>让共同的意象留在故事结尾。</p></article></div>",
+      "takeaway": "曲线组织视线，正文保持安静。",
+      "chapter": "过程",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "02"
+    },
+    {
+      "id": "evidence",
+      "title": "每一阶段，\n自有节律",
+      "layout": "nouveau-data",
+      "kind": "content",
+      "eyebrow": "II / THE RHYTHM OF GROWTH",
+      "subtitle": "",
+      "body_html": "<div class=\"garden-metrics\"><article class=\"reveal\"><span class=\"measure-label\">阶段一</span><div class=\"measure\"><b data-count=\"35\">35</b><small>%</small></div><p>界定观察对象</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段二</span><div class=\"measure\"><b data-count=\"65\">65</b><small>%</small></div><p>建立比较口径</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段三</span><div class=\"measure\"><b data-count=\"90\">90</b><small>%</small></div><p>确认剩余条件</p></article></div><p class=\"data-source\">示例进度 · 35 / 65 / 90%，不代表实际活动数据。</p>",
+      "takeaway": "让装饰围绕信息生长，不覆盖信息。",
+      "chapter": "证据",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "03"
+    },
+    {
+      "id": "delivery",
+      "title": "把余韵，\n留给想象",
+      "layout": "nouveau-close",
+      "kind": "chapter",
+      "eyebrow": "III / A QUIET ENDING",
+      "subtitle": "",
+      "body_html": "<div class=\"garden-signature reveal\"><i>Let it grow.</i><p>一段故事结束，一条曲线仍在延展。</p></div>",
+      "takeaway": "自然的形态，清楚的表达。",
+      "chapter": "收束",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "04"
+    }
+  ]
+}

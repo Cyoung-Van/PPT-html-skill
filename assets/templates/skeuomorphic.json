@@ -1,0 +1,84 @@
+{
+  "title": "拟物主义 · 字体与版式",
+  "style": "skeuomorphic",
+  "lang": "zh-CN",
+  "output_filename": "index.html",
+  "fonts": [
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 400,
+      "subset": true
+    },
+    {
+      "family": "DeckBody",
+      "path": "assets/fonts/NotoSansSC-var.ttf",
+      "weight": 700,
+      "subset": true
+    },
+    {
+      "family": "DeckMono",
+      "path": "assets/fonts/ShareTechMono-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "subset": true
+    }
+  ],
+  "watermark": {
+    "enabled": false
+  },
+  "slides": [
+    {
+      "id": "opening",
+      "title": "系统就绪\n进入观察模式",
+      "layout": "console-cover",
+      "kind": "cover",
+      "eyebrow": "SKEUOMORPHISM / CONTROL PANEL",
+      "subtitle": "先看状态，再读数据，最后执行。",
+      "body_html": "<div class=\"instrument reveal\"><svg viewBox=\"0 0 600 600\" aria-label=\"模拟进度仪表，65%\"><circle cx=\"300\" cy=\"300\" r=\"282\" fill=\"#19292d\" stroke=\"#778b8b\" stroke-width=\"5\"/><circle cx=\"300\" cy=\"300\" r=\"259\" fill=\"#0c1b1f\" stroke=\"#304d50\" stroke-width=\"2\"/><g fill=\"none\" color=\"#82a9a0\"><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"82\" transform=\"rotate(-130 300 300)\" stroke=\"currentColor\" stroke-width=\"4\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-117 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-104 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-91 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-78 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"82\" transform=\"rotate(-65 300 300)\" stroke=\"currentColor\" stroke-width=\"4\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-52 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-39 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-26 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(-13 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"82\" transform=\"rotate(0 300 300)\" stroke=\"currentColor\" stroke-width=\"4\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(13 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(26 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(39 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(52 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"82\" transform=\"rotate(65 300 300)\" stroke=\"currentColor\" stroke-width=\"4\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(78 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(91 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(104 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"71\" transform=\"rotate(117 300 300)\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"300\" y1=\"58\" x2=\"300\" y2=\"82\" transform=\"rotate(130 300 300)\" stroke=\"currentColor\" stroke-width=\"4\"/></g><g class=\"needle\" data-rotate-to=\"39\" style=\"transform-box:view-box;transform-origin:300px 300px\"><path d=\"M293 315L300 100L307 315Z\" fill=\"#f2ba70\"/><circle cx=\"300\" cy=\"300\" r=\"18\" fill=\"#e7c588\"/></g><text x=\"300\" y=\"388\" text-anchor=\"middle\" class=\"gauge-value\">65<tspan font-size=\"32\">%</tspan></text><text x=\"300\" y=\"435\" text-anchor=\"middle\" class=\"gauge-label\">SIMULATED / 非实测</text><text x=\"112\" y=\"480\" class=\"gauge-label\">0</text><text x=\"465\" y=\"480\" class=\"gauge-label\">100</text></svg></div><div class=\"serial reveal\">PANEL 01 / CONTROL STUDY<br>概念仪表 · 未连接真实设备</div>",
+      "takeaway": "材质建立空间，反馈说明动作。",
+      "chapter": "开场",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "01"
+    },
+    {
+      "id": "story",
+      "title": "从观察到执行",
+      "layout": "console-process",
+      "kind": "content",
+      "eyebrow": "CHECKLIST / PROCEDURE 02",
+      "subtitle": "",
+      "body_html": "<div class=\"inspection-paper\"><div class=\"console-checks\"><article data-step=\"1\"><b class=\"step-no\">01</b><h2>观察状态</h2><p>确认输入、单位与当前边界。</p></article><article data-step=\"2\"><b class=\"step-no\">02</b><h2>核对判断</h2><p>按同一标准检查证据。</p></article><article data-step=\"3\"><b class=\"step-no\">03</b><h2>执行并记录</h2><p>动作得到反馈后，再推进下一步。</p></article></div></div><div class=\"system-status reveal\"><span>SEQUENCE</span><b>01 → 03</b><p>MANUAL CONTROL</p><div class=\"status-lamp\">示例流程 / 人工逐步推进</div></div>",
+      "takeaway": "真实接口之外的读数，必须标明示意。",
+      "chapter": "过程",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "02"
+    },
+    {
+      "id": "evidence",
+      "title": "读数与条件\n同时呈现",
+      "layout": "console-data",
+      "kind": "content",
+      "eyebrow": "READOUT / SAMPLE VALUES",
+      "subtitle": "",
+      "body_html": "<div class=\"console-readouts\"><article class=\"reveal\"><span class=\"measure-label\">阶段一</span><div class=\"measure\"><b data-count=\"35\">35</b><small>%</small></div><p>界定观察对象</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段二</span><div class=\"measure\"><b data-count=\"65\">65</b><small>%</small></div><p>建立比较口径</p></article><article class=\"reveal\"><span class=\"measure-label\">阶段三</span><div class=\"measure\"><b data-count=\"90\">90</b><small>%</small></div><p>确认剩余条件</p></article></div><div class=\"console-foot\">SIMULATION ONLY · 单位：% · 三组排版示例值</div>",
+      "takeaway": "刻度和单位稳定，读数只运动到已知终值。",
+      "chapter": "证据",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "03"
+    },
+    {
+      "id": "delivery",
+      "title": "任务结束\n保持记录",
+      "layout": "console-close",
+      "kind": "chapter",
+      "eyebrow": "CONTROL / END OF DEMO",
+      "subtitle": "",
+      "body_html": "<div class=\"console-end reveal\"><span class=\"status-lamp\">COMPLETE</span><b>LOG SAVED</b><p>本页仅为演示设计，不代表真实设备任务完成。</p></div>",
+      "takeaway": "让界面像一个可理解的工具。",
+      "chapter": "收束",
+      "notes": "这是风格与排版示例。示例数值不代表真实项目成果；请替换为用户材料。",
+      "label": "04"
+    }
+  ]
+}

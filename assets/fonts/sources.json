@@ -1,0 +1,56 @@
+[
+  {
+    "key": "zcoolqingkehuangyou",
+    "file": "ZCOOLQingKeHuangYou-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+    "license": "licenses/zcoolqingkehuangyou-OFL.txt"
+  },
+  {
+    "key": "zcoolkuaile",
+    "file": "ZCOOLKuaiLe-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+    "license": "licenses/zcoolkuaile-OFL.txt"
+  },
+  {
+    "key": "mashanzheng",
+    "file": "MaShanZheng-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+    "license": "licenses/mashanzheng-OFL.txt"
+  },
+  {
+    "key": "shrikhand",
+    "file": "Shrikhand-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/shrikhand/Shrikhand-Regular.ttf",
+    "license": "licenses/shrikhand-OFL.txt"
+  },
+  {
+    "key": "poiretone",
+    "file": "PoiretOne-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/poiretone/PoiretOne-Regular.ttf",
+    "license": "licenses/poiretone-OFL.txt"
+  },
+  {
+    "key": "sharetechmono",
+    "file": "ShareTechMono-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/sharetechmono/ShareTechMono-Regular.ttf",
+    "license": "licenses/sharetechmono-OFL.txt"
+  },
+  {
+    "key": "cormorantgaramond",
+    "file": "CormorantGaramond-Italic[wght].ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/cormorantgaramond/CormorantGaramond-Italic[wght].ttf",
+    "license": "licenses/cormorantgaramond-OFL.txt"
+  },
+  {
+    "key": "lilitaone",
+    "file": "LilitaOne-Regular.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/lilitaone/LilitaOne-Regular.ttf",
+    "license": "licenses/lilitaone-OFL.txt"
+  },
+  {
+    "key": "lxgw-neozhisong",
+    "file": "LXGWNeoZhiSong.ttf",
+    "source": "https://github.com/lxgw/LxgwNeoZhiSong/releases/tag/v1.067",
+    "license": "licenses/lxgw-neozhisong"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 动态演示文稿"
+  short_description: "制作六种视觉风格的本地动态 HTML 演示文稿，含导航与 PDF 导出"
+  default_prompt: "使用 $html-motion-deck 把我的内容制作成本地动态 HTML 演示文稿，先确定视觉与动效方案，再生成可离线播放的演示和 PDF。"
