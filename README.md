@@ -1,4 +1,4 @@
-# HTML Motion Deck
+# PPT-html-skill
 
 本地动态 HTML 演示文稿技能，适用于 Codex。提供六种独立的字体、构图与运动系统，生成可离线播放的单文件 HTML，并支持静态 PDF 导出。
 
@@ -22,7 +22,7 @@
 将完整仓库放到个人技能目录，例如：
 
 ```sh
-git clone https://github.com/Cyoung-Van/html-motion-deck.git "$HOME/.codex/skills/html-motion-deck"
+git clone https://github.com/Cyoung-Van/PPT-html-skill.git "$HOME/.codex/skills/html-motion-deck"
 ```
 
 如果目标目录已存在，请先保留原有版本，避免覆盖本地修改。
